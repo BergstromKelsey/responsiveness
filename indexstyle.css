@@ -1,0 +1,45 @@
+body{
+    background-image: url("https://previews.123rf.com/images/pzaxe/pzaxe1510/pzaxe151000234/46719503-art-greece-vintage-ethnic-seamless-gray-vector-pattern-abstract-repeating-texture-background.jpg");
+}
+
+.navbardecor{
+    background-color:white;
+}
+
+h3{
+    color:white;
+    background-color: hsl(167, 40%, 50%); 
+    font-family: 'Lora', serif;
+    
+}
+
+
+.img-responsive{
+    width: 370px;
+    float: left;
+}
+
+.aboutmeheader{
+    font-family: 'Lora', serif;
+    color: hsl(167, 40%, 50%);
+    background-color:white;
+    
+}
+.bio{
+    color:black;
+    font-family: 'Lora', serif;
+    font-size: 16px;
+    
+}
+.p-3 {
+    background-color: white;
+    margin-left: 45px;
+}
+
+.bio2{
+    color:black;
+    font-family: 'Lora', serif;
+    font-size: 16px;
+
+}
+    
