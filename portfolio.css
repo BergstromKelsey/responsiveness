@@ -1,0 +1,28 @@
+body{
+    background-image: url("https://i.pinimg.com/564x/23/d7/4e/23d74e06260d45a85d81e9a877a0c0f2.jpg")}
+    
+    .navbardecor{
+        background-color:white;
+    }
+    
+    h3{
+        color:white;
+        background-color: hsl(167, 40%, 50%); 
+        font-family: 'Lora', serif;
+        
+    }
+  
+    
+    h1{
+        font-family: 'Lora', serif;
+        color: hsl(167, 40%, 50%);
+        background-color:white;
+        
+    }
+    .p-3 {
+        background-color:white;
+    }
+
+    .photo{
+        float: left;
+    }
