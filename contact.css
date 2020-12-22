@@ -27,5 +27,14 @@ body{
     .inputlg {
         height:160px;
     }
+
+    .dots{
+        color:white;
+        background-color: hsl(167, 40%, 50%); 
+        outline-color: hsl(167, 40%, 50%); 
+        font-family: 'Lora', serif;
+        margin-left: 80px;
+        border: white;
+    }
     
  
